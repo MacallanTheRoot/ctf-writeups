@@ -1,0 +1,16 @@
+1000-7
+
+100 pts
+
+Author: @vvanuss
+medium
+
+Some melodies stay in your head.
+Some leave something else behind.
+
+Flag format: grodno{}
+
+Некоторые мелодии остаются у вас в голове.
+А некоторые оставляют после себя нечто иное.
+
+Формат флага: grodno{}
