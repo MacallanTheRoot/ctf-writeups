@@ -14,6 +14,7 @@ The goal is to keep the solutions readable and reproducible. Each CTF has its ow
 
 | CTF | Result | Writeups |
 | --- | --- | --- |
+| [AltaySec OSINT Challenge Season II](https://jane.altaysec.com.tr/) | 1st place · 20/20 flags | [altaysec-osint-challenge-season-ii-writeups](./ctfs/altaysec-osint-challenge-season-ii-writeups/) |
 | [Junior Crypt 2026](https://ctf-spcs.mf.grsu.by/) ([CTFtime](https://ctftime.org/event/3335)) | 26th / 865 teams | [junior-crypt-2026-writeups](./ctfs/junior-crypt-2026-writeups/) |
 | [NoHackNoCTF 2026](https://ctftime.org/event/3180)| 43rd / 844 teams | [nohacknoctf2026-writeups](./ctfs/nohacknoctf2026-writeups/) |
 
@@ -29,5 +30,6 @@ Amacım çözümleri okunabilir ve tekrar edilebilir şekilde arşivlemek. Her C
 
 | CTF | Sonuç | Writeup'lar |
 | --- | --- | --- |
+| [AltaySec OSINT Challenge Sezon II](https://jane.altaysec.com.tr/) | 1. · 20/20 flag | [altaysec-osint-challenge-season-ii-writeups](./ctfs/altaysec-osint-challenge-season-ii-writeups/) |
 | [Junior Crypt 2026](https://ctf-spcs.mf.grsu.by/) ([CTFtime](https://ctftime.org/event/3335)) | 865 takım arasında 26. | [junior-crypt-2026-writeups](./ctfs/junior-crypt-2026-writeups/) |
 | [NoHackNoCTF 2026](https://ctftime.org/event/3180) | 844 takım arasında 43. | [nohacknoctf2026-writeups](./ctfs/nohacknoctf2026-writeups/) |
