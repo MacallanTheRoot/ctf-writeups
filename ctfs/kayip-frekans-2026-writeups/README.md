@@ -10,7 +10,7 @@
 **Date:** 15 September 2026  
 **Organizers:** AltaySec × NGN × Kodluyoruz  
 **Participant and write-up author:** Hamza Efe Şahinbaş (@MacallanTheRoot)  
-**Documented result:** 19/20 solved (author's challenge notes; not a verified leaderboard position)
+**Documented result:** 19/20 solved · **10th place** (placement reported by the participant; official leaderboard evidence not yet archived)
 
 The challenge told a connected investigation story across six chapters: **Pansiyon → Kasaba → Arşiv → Fener → Hastane → Sabah**, with additional open-source tasks. This write-up documents how I followed the evidence and verified 19 flags. The third regular *Fener* flag remained unsolved; I have not invented an answer for it.
 
@@ -38,7 +38,7 @@ Screenshots and derived images referenced by the original write-up are **not red
 **Tarih:** 15 Eylül 2026  
 **Düzenleyenler:** AltaySec × NGN × Kodluyoruz  
 **Katılımcı ve yazar:** Hamza Efe Şahinbaş (@MacallanTheRoot)  
-**Kişisel çözüm kaydı:** 19/20 (resmî sıralama iddiası değildir)
+**Kişisel sonuç:** 19/20 flag · **10. sıra** (katılımcı beyanı; resmî sıralama ekranı henüz arşivlenmedi)
 
 Bu çözüm yazısı Pansiyon, Kasaba, Arşiv, Fener, Hastane ve Sabah bölümleri ile Açık Kaynak görevlerinin inceleme sürecini anlatır. **Fener bölümünün üçüncü normal flag'i çözülememiştir**; buna dair cevap uydurulmamıştır.
 
