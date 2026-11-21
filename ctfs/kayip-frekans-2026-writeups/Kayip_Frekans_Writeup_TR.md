@@ -1,6 +1,6 @@
 # Kayıp Frekans OSINT CTF — 19/20 Çözüm Yazısı
 
-> **Spoiler:** Bu çözüm, tamamlanmış 15 Eylül 2026 yarışmasının 19 flag'ini içerir. 19/20, yazarın kendi çözüm kaydıdır; resmî sıralama iddiası değildir.
+> **Spoiler:** Bu çözüm, tamamlanmış 15 Eylül 2026 yarışmasının 19 flag'ini içerir. 19/20, yazarın kendi çözüm kaydıdır. Yarışma derecesi olarak **10. sıra** katılımcı tarafından bildirilmiştir; resmî liderlik tablosu kanıtı henüz arşivlenmemiştir.
 >
 > **Kanıt görselleri:** Orijinal çalışma arşivindeki 10 ekran görüntüsü / görsel bu GitHub metin sürümünde yeniden dağıtılmamıştır. Görsellere ait açıklamalar metinde korunmuştur. Oyun materyallerinin hakları ilgili yapımcılara aittir.
 >
@@ -9,14 +9,14 @@
 - **Etkinlik:** Kayıp Frekans OSINT CTF
 - **Yazar:** Hamza Efe Şahinbaş
 - **Tarih:** 15 Eylül 2026
-- **Sonuç:** **19/20**
+- **Sonuç:** **19/20 flag · 10. sıra** (katılımcı beyanı)
 - **Eksik:** Fener bölümünün üçüncü normal flag'i
 
 > Bu yazı yarışma sırasında kaydettiğim sayfa kaynakları, ağ yanıtları, indirilen dosyalar, tarayıcı konsolu, Git geçmişi ve terminal kayıtları yeniden kontrol edilerek hazırlandı. Resmî forma otomatik istek gönderilmedi; 19 cevap yarışma sonunda insan eliyle gönderildi ve geçerli olduğu görüldü.
 
 ## TL;DR / Özet
 
-Kayıp Frekans, tek bir pansiyon sayfasından başlayıp Kasaba, Arşiv, Fener, Hastane ve Sabah bölümlerine uzanan doğrusal bir OSINT hikâyesiydi. Normal hikâye akışında 17 olası puanın 16'sını; açık kaynak görevlerinde ise 3/3 yaptım. Toplam sonuç **19/20** oldu.
+Kayıp Frekans, tek bir pansiyon sayfasından başlayıp Kasaba, Arşiv, Fener, Hastane ve Sabah bölümlerine uzanan doğrusal bir OSINT hikâyesiydi. Normal hikâye akışında 17 olası puanın 16'sını; açık kaynak görevlerinde ise 3/3 yaptım. Toplam sonuç **19/20** oldu; yarışma derecem **10. sıraydı** (katılımcı beyanı).
 
 | Bölüm | Sonuç |
 |---|---:|
@@ -837,6 +837,6 @@ Kısa kronoloji:
 
 ## Sonuç
 
-Kayıp Frekans'ı **19/20** ile tamamladım. Pansiyon, Kasaba, Arşiv, Hastane, Sabah ve Açık Kaynak bölümleri tam çözüldü; Fener'de SSTV ve Morse flag'leri doğrulandı, ancak üçüncü normal flag bulunamadı. Bu yazıda yalnızca yarışma artefaktları veya doğrudan onların işaret ettiği herkese açık kaynaklarla yeniden üretilebilen ve insan gönderiminde doğrulanan cevaplara yer verdim.
+Kayıp Frekans'ı **19/20 flag ve 10. sıra** ile tamamladım (derece katılımcı beyanına dayanır). Pansiyon, Kasaba, Arşiv, Hastane, Sabah ve Açık Kaynak bölümleri tam çözüldü; Fener'de SSTV ve Morse flag'leri doğrulandı, ancak üçüncü normal flag bulunamadı. Bu yazıda yalnızca yarışma artefaktları veya doğrudan onların işaret ettiği herkese açık kaynaklarla yeniden üretilebilen ve insan gönderiminde doğrulanan cevaplara yer verdim.
 
 Son dağılım: **Pansiyon 2/2 · Kasaba 3/3 · Arşiv 3/3 · Fener 2/3 · Hastane 3/3 · Sabah 3/3 · Açık Kaynak 3/3 = 19/20.**
